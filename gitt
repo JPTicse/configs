@@ -1,6 +1,6 @@
 #!/bin/bash
 ##########################
-#### CREATED BY HARU #####
+#### CREATED BY JP #####
 ##########################
 # fonts
 font_blue="\033[34m"
